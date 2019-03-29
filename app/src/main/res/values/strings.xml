@@ -1,0 +1,14 @@
+<resources>
+
+
+        <string-array name="spinner1">
+            <item>Euro</item>
+            <item>Pounds</item>
+            <item>Naira</item>
+            <item>Yen</item>
+            <item>Cfa</item>
+
+        </string-array>
+
+
+</resources>
